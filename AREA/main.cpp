@@ -5,7 +5,7 @@ int main()
 {
     int radio;
     float area, perimetro;
- //lo que estoy haciendo
+ 
     // SALIDA: mensaje un pantalla
     cout << "Introduce el radio del circulo: ";
  

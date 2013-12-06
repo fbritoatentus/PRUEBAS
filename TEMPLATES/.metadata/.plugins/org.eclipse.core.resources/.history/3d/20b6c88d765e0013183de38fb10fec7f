@@ -1,0 +1,15 @@
+//============================================================================
+// Name        : templates.cpp
+// Author      : Felo
+// Version     :
+// Copyright   : Para e copiar la custion
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "¡Quee taal!" << endl; // prints ¡Quee taal!
+	return 0;
+}

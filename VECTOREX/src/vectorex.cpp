@@ -20,7 +20,7 @@ int main() {
 	cout<< "tamaño del vector = "<< vec.size()<<endl;
 	
 	//empuja 5 valores en el vector
-	for(i = 0; i < 455 ;i++)
+	for(i = 0; i < 5 ;i++)
 	{
 		vec.push_back(i);
 	}
@@ -30,7 +30,7 @@ int main() {
     
 
     //accesa 5 valores desde el vector
-    for(i = 0 ; i < 455 ; i++)
+    for(i = 0 ; i < 5 ; i++)
     {
     	cout<< "valor de vec ["<< i << "] = " << vec[i] << endl;
     }
